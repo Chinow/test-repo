@@ -1,3 +1,5 @@
-# my-package
+<img src="public/icon.png" alt="Voleer Image" title="Voleer" width="250">
 
-Not much here yet...
+# Package getting-started
+
+The `getting-started` package contains examples of Voleer tasks and templates.
