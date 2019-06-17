@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e650b302-7da5-45af-9460-4dbdd57e7fe0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test-repo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/public/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/echo/echo.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/echo/task.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/get-number-fact/get-number-fact.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/get-number-fact/task.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/get-package-settings/get-package-settings.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/get-package-settings/task.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/local-context.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/save-package-settings/save-package-settings.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/save-package-settings/task.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/test-workspace-data/task.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/tasks/test-workspace-data/test-workspace-data.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/configure-package/sample-inputs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/configure-package/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/configure-package/workflow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/greeting/sample-inputs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/greeting/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/greeting/workflow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/hello-world/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/hello-world/workflow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/inputs-number.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/inputs-today.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/show-package-settings/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/workspace-data/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/Install.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/Install.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-package/voleer.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/voleer.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,36 +26,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/tasks/test-workspace-data/task.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/greeting/template.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/template.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/template.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/show-package-settings/template.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/workspace-data/template.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/test-repo.iml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -101,20 +35,72 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-package/templates/configure-package/template.json">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/configure-package/workflow.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/greeting/workflow.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-859" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-package/voleer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/workflow.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SENDGRID_API_KEY</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my-package/voleer.json" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -173,22 +159,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560803691121</updated>
-      <workItem from="1560803692358" duration="256000" />
+      <workItem from="1560803692358" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256000" />
+    <option name="totallyTimeSpent" value="327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32921812" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,34 +193,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my-package/templates/configure-package/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-229" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/greeting/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-751" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/workflow.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1021" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -338,6 +296,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/configure-package/workflow.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/workflow.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/greeting/workflow.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-859" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/voleer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
