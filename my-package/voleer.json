@@ -4,7 +4,7 @@
   "name": "my-package",
   "displayName": "my-package",
   "description": "A beatifully useless package.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "maxime-viry-test",
   "icon": "icon.png",
   "license": "UNLICENSED",

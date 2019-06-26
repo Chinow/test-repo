@@ -1,7 +1,7 @@
 {
   "apiVersion": "v1",
   "name": "learn-about-numbers",
-  "displayName": "Learn About Numbers v2",
+  "displayName": "Learn About Numbers",
   "description": "Sends information about specified number via email.",
   "keywords": [
     "number",
