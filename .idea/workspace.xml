@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e650b302-7da5-45af-9460-4dbdd57e7fe0" name="Default Changelist" comment="" />
+    <list default="true" id="e650b302-7da5-45af-9460-4dbdd57e7fe0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -179,11 +181,12 @@
       <workItem from="1560803692358" duration="327000" />
       <workItem from="1561140340610" duration="281000" />
       <workItem from="1561584519839" duration="609000" />
+      <workItem from="1561661517883" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1573000" />
+    <option name="totallyTimeSpent" value="2054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -329,6 +332,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/inputs-today.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/inputs-number.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -339,9 +345,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/workflow.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/learn-about-numbers/inputs-today.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/my-package/voleer.json">
