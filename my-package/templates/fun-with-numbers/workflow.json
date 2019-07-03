@@ -18,6 +18,15 @@
             "content": "# Fun with Numbers\n\nLearn interesting facts about numbers and dates.\n\nVoleer will use [Numbers API](http://numbersapi.com) to get the information and [SendGrid](https://sendgrid.com/) API to deliver it via email."
           },
           {
+            "name": "parag",
+            "type": "textArea",
+            "displayName": "Some Text",
+            "description": "Number of date to get information about.",
+            "label": "Enter a number or a date in month/day format. You can also enter 'random' or 'today'.",
+            "required": false,
+            "defaultValue": "Random Test"
+          },
+          {
             "name": "number",
             "type": "textInput",
             "displayName": "Number",
