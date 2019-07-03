@@ -27,7 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-package/voleer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -41,11 +41,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="123">
+              <caret line="17" column="832" selection-start-line="17" selection-start-column="832" selection-end-line="17" selection-end-column="832" />
             </state>
           </provider>
         </entry>
@@ -106,8 +106,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my-package/voleer.json" />
         <option value="$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json" />
+        <option value="$PROJECT_DIR$/my-package/voleer.json" />
       </list>
     </option>
   </component>
@@ -190,12 +190,13 @@
       <workItem from="1560803692358" duration="327000" />
       <workItem from="1561140340610" duration="281000" />
       <workItem from="1561584519839" duration="609000" />
-      <workItem from="1561661517883" duration="796000" />
+      <workItem from="1561661517883" duration="1123000" />
+      <workItem from="1562195502125" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2369000" />
+    <option name="totallyTimeSpent" value="2739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -327,6 +328,9 @@
     <entry file="file://$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/fun-with-numbers/template.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-package/tasks/get-number-fact/task.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -356,20 +360,17 @@
     <entry file="file://$PROJECT_DIR$/my-package/templates/hello-world/workflow.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="832" selection-start-line="17" selection-start-column="832" selection-end-line="17" selection-end-column="832" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-package/voleer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/fun-with-numbers/template.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
