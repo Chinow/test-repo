@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e650b302-7da5-45af-9460-4dbdd57e7fe0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-package/voleer.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/voleer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +81,7 @@
       <workItem from="1562195502125" duration="120000" />
       <workItem from="1566490992825" duration="1000" />
       <workItem from="1566491027473" duration="2000" />
-      <workItem from="1566491034757" duration="258000" />
+      <workItem from="1566491034757" duration="1639000" />
     </task>
     <servers />
   </component>

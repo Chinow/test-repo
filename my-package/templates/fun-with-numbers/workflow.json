@@ -72,7 +72,7 @@
             "description": "Number of date to get information about.",
             "label": "Enter a number or a date in month/day format. You can also enter 'random' or 'today'.",
             "required": true,
-            "defaultValue": "42"
+            "defaultValue": "56"
           },
           {
             "name": "type",
@@ -81,7 +81,7 @@
             "description": "Type of information to retrieve.",
             "label": "Select the type of information to get.",
             "required": false,
-            "defaultSelected": "trivia",
+            "defaultSelected": "math",
             "options": [
               { "id": "trivia", "label": "Trivia", "value": "trivia" },
               { "id": "math", "label": "Math", "value": "math" },
