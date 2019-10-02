@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e650b302-7da5-45af-9460-4dbdd57e7fe0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/tasks/test-workspace-data/test-workspace-data.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/tasks/test-workspace-data/test-workspace-data.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/configure-package/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/configure-package/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/greeting/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/greeting/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/hello-world/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/hello-world/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/learn-about-numbers/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/security-report/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/security-report/template.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/security-report/workflow.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/show-package-settings/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/workspace-data/workflow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-package/voleer.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/voleer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-package/templates/fun-with-numbers/template.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +82,7 @@
       <workItem from="1566490992825" duration="1000" />
       <workItem from="1566491027473" duration="2000" />
       <workItem from="1566491034757" duration="1639000" />
-      <workItem from="1569951555924" duration="862000" />
+      <workItem from="1569951555924" duration="1121000" />
     </task>
     <servers />
   </component>

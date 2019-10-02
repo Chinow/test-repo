@@ -1,7 +1,7 @@
 {
   "apiVersion": "v1",
   "name": "fun-with-numbers",
-  "displayName": "Fun with Numbers",
+  "displayName": "Fun with Numbers but wither a long title for now reasons ",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis egestas metus. Nam et erat tristique, volutpat leo in, sollicitudin leo. Phasellus vehicula nulla a eros ultrices pellentesque. In malesuada tortor lobortis lacus tincidunt, et ullamcorper purus lobortis. Quisque luctus, diam vel luctus hendrerit, velit magna pharetra purus, vel luctus ipsum lectus at ante. Sed volutpat tortor a pulvinar commodo. Proin sollicitudin nibh tellus, id malesuada leo maximus id. In maximus, erat sed lacinia lobortis, ligula felis varius lectus, eu euismod libero lectus sed sem.",
   "keywords": [
     "number",
