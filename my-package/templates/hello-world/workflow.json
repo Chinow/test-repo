@@ -1,14 +1,41 @@
 {
   "apiVersion": "v1",
+  "inputs": {},
   "body": {
-    "name": "echo",
-    "description": "Call echo task.",
-    "type": "packageTask",
-    "displayName": "Echo",
-    "package": "voleer/getting-started@0.2.8",
-    "task": "echo",
-    "inputs": {
-      "message": "Hello, World!"
-    }
+    "name": "readonlyForm2",
+    "displayName": "Readonly Form 2",
+    "description": "Readonly Form with a timed completion. Must not contain any input component.",
+    "type": "form",
+    "submitLabel": "Acknowledge Twice!",
+    "components": [
+      {
+        "name": "columns",
+        "type": "columns",
+        "columns": [
+          {
+            "name": "col1",
+            "components": [
+              {
+                "name": "instructions",
+                "type": "paragraph",
+                "description": "Readonly information",
+                "content": "# Dejavu | Self-complete in 10 seconds"
+              }
+            ]
+          },
+          {
+            "name": "col2",
+            "components": [
+              {
+                "name": "instructions2",
+                "type": "paragraph",
+                "description": "Readonly information",
+                "content": "# Second-reminder | Self-complete in 10 seconds"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
