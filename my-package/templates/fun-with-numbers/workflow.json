@@ -15,7 +15,7 @@
             "name": "instructions",
             "type": "paragraph",
             "description": "Instructions for the user.",
-            "content": "# Fun with Numbers\n\nLearn interesting facts about numbers and dates.\n\nVoleer will use [Numbers API](http://numbersapi.com) to get the information and [SendGrid](https://sendgrid.com/) API to deliver it via email."
+            "content": "# Fun with Numbers\n\nLearn interesting facts about numbers and dates.\n\n  ![](https://voleerprodpublic.blob.core.windows.net/files/template-assets/voleer/office-365/microsoft-teams-assessment/images/10_AdvancedMode-ProvideCredentials.svg) Voleer will use [Numbers API](http://numbersapi.com) to get the information and [SendGrid](https://sendgrid.com/) API to deliver it via email."
           },
           {
             "name": "number",
