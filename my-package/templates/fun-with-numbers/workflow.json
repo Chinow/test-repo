@@ -15,7 +15,7 @@
             "name": "instructions",
             "type": "paragraph",
             "description": "Instructions for the user.",
-            "content": "# Fun with Numbers\n\nLearn interesting facts about numbers and dates.\n\n  ![](https://voleerprodpublic.blob.core.windows.net/files/template-assets/voleer/office-365/microsoft-teams-assessment/images/10_AdvancedMode-ProvideCredentials.svg) Voleer will use [Numbers API](http://numbersapi.com) to get the information and [SendGrid](https://sendgrid.com/) \n\n `API to deliver `n`n it via email`\n\n More test."
+            "content": "There were issues with verifying the credentials:↵↵> `The Office 365 credentials failed to connect to Exchange Online. This could indicate invalid credentials (username and/or password) were provided.`↵↵> `Failed Exchange Online logon with username '65y65y67546y'.`↵↵> `Connecting to remote server outlook.office365.com failed with the following error message : [ClientAccessServer=CO1PR15CA0056,BackEndServer=,RequestId=654b67d4-fe5d-4e8b-8478-e93ff9115a7c,TimeStamp=10/24/2019 9:24:27 PM] Access Denied For more information, see the about_Remote_Troubleshooting Help topic.`↵↵↵↵Use this form to update the default credentials to use and run the assessment again."
           },
           {
             "name": "number",
