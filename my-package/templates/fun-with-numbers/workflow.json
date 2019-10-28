@@ -15,7 +15,7 @@
             "name": "instructions",
             "type": "paragraph",
             "description": "Instructions for the user.",
-            "content": "There were issues with verifying the credentials:↵↵> `The Office 365 credentials failed to connect to Exchange Online. This could indicate invalid credentials (username and/or password) were provided.`↵↵> `Failed Exchange Online logon with username '65y65y67546y'.`↵↵> `Connecting to remote server outlook.office365.com failed with the following error message : [ClientAccessServer=CO1PR15CA0056,BackEndServer=,RequestId=654b67d4-fe5d-4e8b-8478-e93ff9115a7c,TimeStamp=10/24/2019 9:24:27 PM] Access Denied For more information, see the about_Remote_Troubleshooting Help topic.`↵↵↵↵Use this form to update the default credentials to use and run the assessment again."
+            "content": "this is a test"
           },
           {
             "name": "number",
@@ -23,7 +23,7 @@
             "displayName": "Number with a super long name that is going to definitely cause some wrapping issue... maybe a bit more to be sure",
             "mask": true,
             "description": "Number of date to get information about.",
-            "label": "Enter a number or a date in month/day format. You can also enter 'random' or 'today'.",
+            "label": "Number with a super long name that is going to definitely cause some wrapping issue... maybe a bit more to be sure Enter a number or a date in month/day format. You can also enter 'random' or 'today'.",
             "required": true,
             "defaultValue": "42"
           },
