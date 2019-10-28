@@ -20,7 +20,8 @@
           {
             "name": "number",
             "type": "textInput",
-            "displayName": "Number",
+            "displayName": "Number with a super long name that is going to definitely cause some wrapping issue... maybe a bit more to be sure",
+            "mask": true,
             "description": "Number of date to get information about.",
             "label": "Enter a number or a date in month/day format. You can also enter 'random' or 'today'.",
             "required": true,
